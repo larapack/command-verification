@@ -1,0 +1,12 @@
+{
+    "name": "larapack/command-verification",
+    "description": "Makes Artisan Commands prompt the console if it should continue.",
+    "keywords": ["package", "laravel", "larapack", "artisan", "command", "verify", "verification"],
+    "license": "MIT",
+    "type": "package",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
