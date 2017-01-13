@@ -1,9 +1,9 @@
-# command-verification
+# Laravel Command Verification
 Makes Artisan Commands prompt the console if it should continue.
 
 ## Installing
 
-Install using Composer `composer require larapack/command-verification 1.*`.
+Install using composer `composer require larapack/command-verification 1.*`.
 
 ## Usage
 
@@ -44,7 +44,7 @@ If the user accept it will call the `verified`-method, so ensure you define that
 
 It will look like this:
 
-![Command Line Example](http://static-content.webman.io/github.com/larapack/command-verification/command-line.png)
+![Command Line Example](https://raw.githubusercontent.com/larapack/command-verification/master/resources/command-line-example.png)
 
 ## Customizing
 
